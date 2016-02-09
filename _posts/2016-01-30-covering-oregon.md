@@ -22,7 +22,8 @@ author:
 We've spent a lot of time in Oregon. Well, not __in__ Oregon, physically, but searching for, obtaining and parsing election results from the state. County-level data is easy to find: the Secretary of State's office provides [electronic PDFs of results](http://sos.oregon.gov/elections/Pages/electionhistory.aspx) for elections dating back to 2004. Thanks to Tabula, those were easy to convert so that we could load them into our database.
 
 ![Map]({{ site.baseurl }}/assets/images/map.png "map")
-##### Source: http://www.oregon.gov/DHS/CHILDREN/FOSTERPARENT/PublishingImages/map.png
+
+Source: http://www.oregon.gov/DHS/CHILDREN/FOSTERPARENT/PublishingImages/map.png
 
 But precinct-level data was, as we've said before, a whole other story. We've written about specific aspects of this process, but here is the complete story about how we published what is, to the best of our knowledge, the first freely-available set of statewide precinct-level election results for 2012 and 2014 elections in Oregon.
 
